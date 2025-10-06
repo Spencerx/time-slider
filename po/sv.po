@@ -1,6 +1,6 @@
 # Copyright (C) 2008 Sun Microsystems, Inc
 # This file is distributed under the same license as the time-slider package.
-#
+# Swedish translation
 # Desktop Discuss <desktop-discuss@opensolaris.org>
 #
 msgid ""
@@ -8,206 +8,211 @@ msgstr ""
 "Project-Id-Version: time-slider HEAD\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2009-12-07 22:37+0900\n"
-"PO-Revision-Date: 2008-10-01 21:35+0900\n"
-"Last-Translator: desktop-discuss@opensolaris.org\n"
+"PO-Revision-Date: 2025-10-06 16:01+0200\n"
+"Last-Translator: Daniel Nylander <github@danielnylander.se>\n"
 "Language-Team: desktop-discuss@opensolaris.org\n"
+"Language: sv\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.7\n"
 
 #: ../data/time-slider.desktop.in.h:1
 msgid "Configure the system to take automatic snapshots of your data"
 msgstr ""
+"Konfigurera systemet för att ta automatiska ögonblicksbilder av dina data"
 
 #: ../data/time-slider.desktop.in.h:2
 #: ../usr/share/time-slider/lib/time_slider/applet.py:185
 msgid "Time Slider"
-msgstr ""
+msgstr "Time Slider"
 
 #: ../usr/share/time-slider/glade/time-slider-delete.glade.h:2
 #: ../usr/share/time-slider/lib/time_slider/deletegui.py:242
 #: ../usr/share/time-slider/lib/time_slider/deletegui.py:342
 #, no-c-format, python-format
 msgid "%d snapshots will be deleted."
-msgstr ""
+msgstr "%d ögonblicksbilder kommer att raderas."
 
 #: ../usr/share/time-slider/glade/time-slider-delete.glade.h:3
 msgid "<b>Summary</b>"
-msgstr ""
+msgstr "<b>Sammanfattning</b>"
 
 #: ../usr/share/time-slider/glade/time-slider-delete.glade.h:4
 msgid "D_eselect All"
-msgstr ""
+msgstr "A_vmarkera alla"
 
 #: ../usr/share/time-slider/glade/time-slider-delete.glade.h:5
 msgid "Delete Snapshots"
-msgstr ""
+msgstr "Ta bort ögonblicksbilder"
 
 #: ../usr/share/time-slider/glade/time-slider-delete.glade.h:6
 msgid "Deleting Snapshots"
-msgstr ""
+msgstr "Radering av ögonblicksbilder"
 
 #: ../usr/share/time-slider/glade/time-slider-delete.glade.h:7
 msgid "Deleting snapshots..."
-msgstr ""
+msgstr "Radering av ögonblicksbilder..."
 
 #: ../usr/share/time-slider/glade/time-slider-delete.glade.h:8
 msgid "Exit when done. "
-msgstr ""
+msgstr "Avsluta när du är klar. "
 
 #: ../usr/share/time-slider/glade/time-slider-delete.glade.h:9
 msgid "File System:"
-msgstr ""
+msgstr "Filsystem:"
 
 #: ../usr/share/time-slider/glade/time-slider-delete.glade.h:10
 msgid "Name:"
-msgstr ""
+msgstr "Namn:"
 
 #: ../usr/share/time-slider/glade/time-slider-delete.glade.h:11
 msgid "Press Delete to continue."
-msgstr ""
+msgstr "Tryck på Delete för att fortsätta."
 
 #: ../usr/share/time-slider/glade/time-slider-delete.glade.h:12
 msgid "Scanning snapshots..."
-msgstr ""
+msgstr "Söker igenom ögonblicksbilder..."
 
 #: ../usr/share/time-slider/glade/time-slider-delete.glade.h:13
 msgid "Select ZFS snapshots to delete from the list below."
-msgstr ""
+msgstr "Välj ZFS-ögonblicksbilder som ska tas bort från listan nedan."
 
 #: ../usr/share/time-slider/glade/time-slider-setup.glade.h:1
 msgid "<b>Enable Time Slider</b>"
-msgstr ""
+msgstr "<b>Aktivera Time Slider</b>"
 
 #: ../usr/share/time-slider/glade/time-slider-setup.glade.h:2
 msgid "<b>File Systems To Back Up</b>"
-msgstr ""
+msgstr "<b>Filsystem att säkerhetskopiera</b>"
 
 #: ../usr/share/time-slider/glade/time-slider-setup.glade.h:3
 msgid "Advanced Options"
-msgstr ""
+msgstr "Avancerade inställningar"
 
 #: ../usr/share/time-slider/glade/time-slider-setup.glade.h:4
 msgid "C_ustom:"
-msgstr ""
+msgstr "A_npassad:"
 
 #: ../usr/share/time-slider/glade/time-slider-setup.glade.h:5
 msgid "Configuring Time Slider..."
-msgstr ""
+msgstr "Konfigurera Time Slider..."
 
 #: ../usr/share/time-slider/glade/time-slider-setup.glade.h:6
 msgid "For advanced users"
-msgstr ""
+msgstr "För avancerade användare"
 
 #: ../usr/share/time-slider/glade/time-slider-setup.glade.h:7
 msgid "Recommended for most users"
-msgstr ""
+msgstr "Rekommenderas för de flesta användare"
 
 #: ../usr/share/time-slider/glade/time-slider-setup.glade.h:8
 msgid "Reduce backups when storage space usage exceeds:"
-msgstr ""
+msgstr "Minska antalet säkerhetskopior när lagringsutrymmet överskrids:"
 
 #: ../usr/share/time-slider/glade/time-slider-setup.glade.h:9
 msgid "Time Slider Manager"
-msgstr ""
+msgstr "Time Slider Manager"
 
 #: ../usr/share/time-slider/glade/time-slider-setup.glade.h:10
 msgid "Time Slider backs up data regularly by taking timed ZFS Snapshots"
 msgstr ""
+"Time Slider säkerhetskopierar data regelbundet genom att ta tidsinställda "
+"ZFS-ögonblicksbilder"
 
 #: ../usr/share/time-slider/glade/time-slider-setup.glade.h:11
 msgid "_All"
-msgstr ""
+msgstr "_Alla"
 
 #: ../usr/share/time-slider/glade/time-slider-setup.glade.h:12
 msgid "_Delete Snapshots..."
-msgstr ""
+msgstr "_Radera ögonblicksbilder..."
 
 #: ../usr/share/time-slider/glade/time-slider-setup.glade.h:13
 msgid "of file system capacity"
-msgstr ""
+msgstr "av filsystemets kapacitet"
 
 #: ../usr/share/time-slider/glade/time-slider-snapshot.glade.h:1
 msgid "Take a snapshot now"
-msgstr ""
+msgstr "Ta en ögonblicksbild nu"
 
 #: ../usr/share/time-slider/glade/time-slider-snapshot.glade.h:2
 msgid "Take a snapshot of "
-msgstr ""
+msgstr "Ta en ögonblicksbild av "
 
 #: ../usr/share/time-slider/glade/time-slider-snapshot.glade.h:3
 msgid "with the name :"
-msgstr ""
+msgstr "med namnet :"
 
 #: ../usr/share/time-slider/glade/time-slider-version.glade.h:1
 msgid "10 Mo"
-msgstr ""
+msgstr "10 Mo"
 
 #: ../usr/share/time-slider/glade/time-slider-version.glade.h:2
 msgid "19/01/09"
-msgstr ""
+msgstr "19/01/09"
 
 #: ../usr/share/time-slider/glade/time-slider-version.glade.h:3
 msgid "<b>Current Version</b>"
-msgstr ""
+msgstr "<b>Nuvarande version</b>"
 
 #: ../usr/share/time-slider/glade/time-slider-version.glade.h:4
 msgid "<b>Older Versions</b>"
-msgstr ""
+msgstr "<b>Äldre versioner</b>"
 
 #: ../usr/share/time-slider/glade/time-slider-version.glade.h:5
 msgid "Double click to open the file"
-msgstr ""
+msgstr "Dubbelklicka för att öppna filen"
 
 #: ../usr/share/time-slider/glade/time-slider-version.glade.h:6
 msgid "Open the current version of the file"
-msgstr ""
+msgstr "Öppna den aktuella versionen av filen"
 
 #: ../usr/share/time-slider/glade/time-slider-version.glade.h:7
 msgid "Scanning for older versions"
-msgstr ""
+msgstr "Söker efter äldre versioner"
 
 #: ../usr/share/time-slider/glade/time-slider-version.glade.h:8
 msgid "Time Slider File Version Explorer"
-msgstr ""
+msgstr "Filversionsutforskare"
 
 #: ../usr/share/time-slider/glade/time-slider-version.glade.h:9
 msgid "compare"
-msgstr ""
+msgstr "jämför"
 
 #: ../usr/share/time-slider/glade/time-slider-version.glade.h:10
 msgid "filename"
-msgstr ""
+msgstr "filnamn"
 
 #: ../usr/share/time-slider/glade/time-slider-version.glade.h:11
 msgid "gtk-close"
-msgstr ""
+msgstr "gtk-close"
 
 #: ../usr/share/time-slider/glade/time-slider-version.glade.h:12
 msgid "last modified : "
-msgstr ""
+msgstr "senast ändrad : "
 
 #: ../usr/share/time-slider/glade/time-slider-version.glade.h:13
 msgid "name :"
-msgstr ""
+msgstr "namn :"
 
 #: ../usr/share/time-slider/glade/time-slider-version.glade.h:14
 msgid "size : "
-msgstr ""
+msgstr "storlek : "
 
 #: ../usr/share/time-slider/lib/time_slider/applet.py:57
 msgid "Time Slider: Low Space Warning"
-msgstr ""
+msgstr "Time Slider: Varning för lågt utrymme"
 
 #: ../usr/share/time-slider/lib/time_slider/applet.py:75
 #, python-format
 msgid "Emergency: '%s' is full!"
-msgstr ""
+msgstr "Nödläge: '%s' är full!"
 
 #: ../usr/share/time-slider/lib/time_slider/applet.py:76
 #, python-format
 msgid "The file system: '%s', is over %s%% full."
-msgstr ""
+msgstr "Filsystemet: '%s', är %s%% överfull."
 
 #: ../usr/share/time-slider/lib/time_slider/applet.py:78
 #, python-format
@@ -217,18 +222,22 @@ msgid ""
 "To fix this problem, delete any unnecessary files on '%s', or add disk space "
 "(see ZFS documentation)."
 msgstr ""
+"Filsystemet: '%s', är %s%% överfull.\n"
+"Som en nödåtgärd har Time Slider förstört alla sina säkerhetskopior.\n"
+"För att åtgärda problemet, ta bort alla onödiga filer på '%s' eller lägg "
+"till diskutrymme (se ZFS-dokumentationen)."
 
 #: ../usr/share/time-slider/lib/time_slider/applet.py:87
 #, python-format
 msgid "Emergency: '%s' is almost full!"
-msgstr ""
+msgstr "Nödläge: '%s' är nästan full!"
 
 #: ../usr/share/time-slider/lib/time_slider/applet.py:88
 #: ../usr/share/time-slider/lib/time_slider/applet.py:103
 #: ../usr/share/time-slider/lib/time_slider/applet.py:118
 #, python-format
 msgid "The file system: '%s', exceeded %s%% of its total capacity"
-msgstr ""
+msgstr "Filsystemet: '%s', överskred %s%% of sin totala kapacitet"
 
 #: ../usr/share/time-slider/lib/time_slider/applet.py:91
 #, python-format
@@ -238,11 +247,16 @@ msgid ""
 "the disk becoming full. To prevent this from happening again, delete any "
 "unnecessary files on '%s', or add disk space (see ZFS documentation)."
 msgstr ""
+"Filsystemet: '%s', överskred %s%% of sin totala kapacitet. Som en nödåtgärd "
+"har Time Slider förstört de flesta eller alla sina säkerhetskopior för att "
+"förhindra att disken blir full. För att förhindra att detta händer igen, ta "
+"bort alla onödiga filer på '%s' eller lägg till diskutrymme (se ZFS-"
+"dokumentationen)."
 
 #: ../usr/share/time-slider/lib/time_slider/applet.py:102
 #, python-format
 msgid "Urgent: '%s' is almost full!"
-msgstr ""
+msgstr "Brådskande: '%s' är nästan full!"
 
 #: ../usr/share/time-slider/lib/time_slider/applet.py:106
 #, python-format
@@ -253,11 +267,17 @@ msgid ""
 "To prevent this from happening again, delete any unnecessary files on '%s', "
 "or add disk space (see ZFS documentation)."
 msgstr ""
+"Filsystemet: '%s', överskred %s%% of sin totala kapacitet. Som en "
+"korrigerande åtgärd har Time Slider förstört några säkerhetskopior och "
+"kommer att förstöra fler, så småningom alla, när kapaciteten fortsätter att "
+"minska.\n"
+"För att förhindra att detta händer igen, ta bort alla onödiga filer på '%s' "
+"eller lägg till diskutrymme (se ZFS-dokumentationen)."
 
 #: ../usr/share/time-slider/lib/time_slider/applet.py:117
 #, python-format
 msgid "Warning: '%s' is getting full"
-msgstr ""
+msgstr "Varning: '%s' börjar bli full"
 
 #: ../usr/share/time-slider/lib/time_slider/applet.py:121
 #, python-format
@@ -268,34 +288,39 @@ msgid ""
 "To prevent this from happening again, delete any unnecessary files on '%s', "
 "or add disk space (see ZFS documentation).\n"
 msgstr ""
+"'%s' överskred %s%% of sin totala kapacitet. För att åtgärda detta har Time "
+"Slider förstört några nya säkerhetskopior, och kommer att förstöra fler när "
+"kapaciteten fortsätter att minska.\n"
+"För att förhindra att detta händer igen, ta bort alla onödiga filer på '%s', "
+"eller lägg till diskutrymme (se ZFS-dokumentationen).\n"
 
 #: ../usr/share/time-slider/lib/time_slider/applet.py:137
 msgid "Details..."
-msgstr ""
+msgstr "Detaljer..."
 
 #: ../usr/share/time-slider/lib/time_slider/deletegui.py:116
 #: ../usr/share/time-slider/lib/time_slider/deletegui.py:306
 #: ../usr/share/time-slider/lib/time_slider/setupgui.py:106
 msgid "Legacy"
-msgstr ""
+msgstr "Föråldrad"
 
 #: ../usr/share/time-slider/lib/time_slider/deletegui.py:147
 #: ../usr/share/time-slider/lib/time_slider/setupgui.py:131
 msgid "Mount Point"
-msgstr ""
+msgstr "Monteringspunkt"
 
 #: ../usr/share/time-slider/lib/time_slider/deletegui.py:155
 #: ../usr/share/time-slider/lib/time_slider/setupgui.py:134
 msgid "File System Name"
-msgstr ""
+msgstr "Filsystemets namn"
 
 #: ../usr/share/time-slider/lib/time_slider/deletegui.py:163
 msgid "Snapshot Name"
-msgstr ""
+msgstr "Namn på ögonblicksbild"
 
 #: ../usr/share/time-slider/lib/time_slider/deletegui.py:171
 msgid "Creation Time"
-msgstr ""
+msgstr "Skapad den"
 
 #. Note to developers.
 #. The second element is for internal matching and should not
@@ -303,31 +328,31 @@ msgstr ""
 #: ../usr/share/time-slider/lib/time_slider/deletegui.py:185
 #: ../usr/share/time-slider/lib/time_slider/deletegui.py:198
 msgid "All"
-msgstr ""
+msgstr "Alla"
 
 #: ../usr/share/time-slider/lib/time_slider/deletegui.py:199
 msgid "Monthly"
-msgstr ""
+msgstr "Månadsvis"
 
 #: ../usr/share/time-slider/lib/time_slider/deletegui.py:200
 msgid "Weekly"
-msgstr ""
+msgstr "Veckovis"
 
 #: ../usr/share/time-slider/lib/time_slider/deletegui.py:201
 msgid "Daily"
-msgstr ""
+msgstr "Dagligen"
 
 #: ../usr/share/time-slider/lib/time_slider/deletegui.py:202
 msgid "Hourly"
-msgstr ""
+msgstr "Varje timme"
 
 #: ../usr/share/time-slider/lib/time_slider/deletegui.py:203
 msgid "1/4 Hourly"
-msgstr ""
+msgstr "1/4 Hourly"
 
 #: ../usr/share/time-slider/lib/time_slider/deletegui.py:223
 msgid "Snapshot can not be deleted"
-msgstr ""
+msgstr "Ögonblicksbilden kan inte raderas"
 
 #: ../usr/share/time-slider/lib/time_slider/deletegui.py:224
 #, python-format
@@ -335,25 +360,28 @@ msgid ""
 "%s has one or more dependent clones and will not be deleted. To delete this "
 "snapshot, first delete all datasets and snapshots cloned from this snapshot."
 msgstr ""
+"%s har en eller flera beroende kloner och kommer inte att tas bort. Om du "
+"vill ta bort den här ögonblicksbilden måste du först ta bort alla dataset "
+"och ögonblicksbilder som klonats från den här ögonblicksbilden."
 
 #: ../usr/share/time-slider/lib/time_slider/deletegui.py:240
 #: ../usr/share/time-slider/lib/time_slider/deletegui.py:340
 msgid "1 snapshot will be deleted."
-msgstr ""
+msgstr "1 ögonblicksbild kommer att raderas."
 
 #: ../usr/share/time-slider/lib/time_slider/deletegui.py:381
 msgid "Some snapshots could not be read"
-msgstr ""
+msgstr "Vissa ögonblicksbilder kunde inte läsas"
 
 #: ../usr/share/time-slider/lib/time_slider/deletegui.py:405
 msgid "Some snapshots could not be deleted"
-msgstr ""
+msgstr "Vissa ögonblicksbilder kunde inte tas bort"
 
 #: ../usr/share/time-slider/lib/time_slider/deletegui.py:539
 #: ../usr/share/time-slider/lib/time_slider/setupgui.py:422
 #: ../usr/share/time-slider/lib/time_slider/snapnowui.py:215
 msgid "Insufficient Priviliges"
-msgstr ""
+msgstr "Otillräcklig behörighet"
 
 #: ../usr/share/time-slider/lib/time_slider/deletegui.py:540
 msgid ""
@@ -362,22 +390,28 @@ msgid ""
 "\n"
 "Consult your system administrator "
 msgstr ""
+"Radering av ögonblicksbilder kräver administratörsbehörighet för att kunna "
+"köras. Du har inte tilldelats de nödvändiga administratörsrättigheterna.\n"
+"\n"
+"Rådfråga din systemadministratör "
 
 #: ../usr/share/time-slider/lib/time_slider/fileversion.py:246
 #: ../usr/share/time-slider/lib/time_slider/fileversion.py:247
 msgid "Hint"
-msgstr ""
+msgstr "Tips"
 
 #: ../usr/share/time-slider/lib/time_slider/fileversion.py:248
 msgid ""
 "Installing the optional meld package will enhance the file comparison "
 "visualization"
 msgstr ""
+"Om du installerar tillvalspaketet meld förbättras visualiseringen av "
+"filjämförelsen"
 
 #: ../usr/share/time-slider/lib/time_slider/fileversion.py:316
 #: ../usr/share/time-slider/lib/time_slider/snapnowui.py:179
 msgid "Invalid arguments count."
-msgstr ""
+msgstr "Ogiltigt antal argument."
 
 #: ../usr/share/time-slider/lib/time_slider/fileversion.py:318
 msgid ""
@@ -385,14 +419,17 @@ msgid ""
 "- The path of the root snapshot directory.\n"
 "- The filename to explore."
 msgstr ""
+"Versionsutforskaren kräver 2 argument :\n"
+"- Sökvägen till rotkatalogen för ögonblicksbilder.\n"
+"- Filnamnet som ska undersökas."
 
 #: ../usr/share/time-slider/lib/time_slider/setupgui.py:128
 msgid "Select"
-msgstr ""
+msgstr "Välj"
 
 #: ../usr/share/time-slider/lib/time_slider/setupgui.py:154
 msgid "Snapshot manager service dependency error"
-msgstr ""
+msgstr "Beroendefel för Snapshot Manager-tjänsten"
 
 #: ../usr/share/time-slider/lib/time_slider/setupgui.py:155
 #, python-format
@@ -405,11 +442,18 @@ msgid ""
 "Run \"svcs -xv\" from a command prompt for more information about these "
 "dependency problems."
 msgstr ""
+"Tjänsten snapshot manager har satts offline på grund av ett beroendeproblem. "
+"Följande beroendeproblem hittades:\n"
+"\n"
+"%s\n"
+"\n"
+"Kör \"svcs -xv\" från en kommandotolk om du vill ha mer information om dessa "
+"beroendeproblem."
 
 #: ../usr/share/time-slider/lib/time_slider/setupgui.py:169
 #: ../usr/share/time-slider/lib/time_slider/setupgui.py:186
 msgid "Snapshot manager service error"
-msgstr ""
+msgstr "Fel i tjänsten Snapshot Manager"
 
 #: ../usr/share/time-slider/lib/time_slider/setupgui.py:170
 msgid ""
@@ -418,6 +462,10 @@ msgid ""
 "\n"
 "See the svcs(1) man page for more information."
 msgstr ""
+"Tjänsten snapshot manager har stött på ett problem och har inaktiverats "
+"tills problemet är åtgärdat.\n"
+"\n"
+"Se svcs(1) man page för mer information."
 
 #: ../usr/share/time-slider/lib/time_slider/setupgui.py:187
 msgid ""
@@ -426,6 +474,9 @@ msgid ""
 "\n"
 "See the svcs(1) man page for more information."
 msgstr ""
+"Tjänsten Snapshot Manager verkar inte vara installerad på det här systemet.\n"
+"\n"
+"Se svcs(1) man page för mer information."
 
 #: ../usr/share/time-slider/lib/time_slider/setupgui.py:423
 msgid ""
@@ -434,17 +485,21 @@ msgid ""
 "\n"
 "Consult your system administrator "
 msgstr ""
+"Tjänsten Snapshot Manager kräver administratörsbehörighet för att köras. Du "
+"har inte tilldelats de nödvändiga administrativa behörigheterna.\n"
+"\n"
+"Rådfråga din systemadministratör "
 
 #: ../usr/share/time-slider/lib/time_slider/snapnowui.py:116
 msgid "Invalid characters in snapshot name"
-msgstr ""
+msgstr "Ogiltiga tecken i namnet på ögonblicksbilden"
 
 #: ../usr/share/time-slider/lib/time_slider/snapnowui.py:117
 #: ../usr/share/time-slider/lib/time_slider/snapnowui.py:147
 #: ../usr/share/time-slider/lib/time_slider/snapnowui.py:180
 #: ../usr/share/time-slider/lib/time_slider/snapnowui.py:216
 msgid "Error"
-msgstr ""
+msgstr "Fel"
 
 #: ../usr/share/time-slider/lib/time_slider/snapnowui.py:118
 msgid ""
@@ -452,18 +507,21 @@ msgid ""
 "[a-z][A-Z][0-9][-_.:\n"
 "All invalid characters will be removed\n"
 msgstr ""
+"Tillåtna tecken för namn på ögonblicksbilder är :\n"
+"[a-z][A-Z][0-9][-_.:\n"
+"Alla ogiltiga tecken kommer att tas bort\n"
 
 #: ../usr/share/time-slider/lib/time_slider/snapnowui.py:146
 msgid "Error occured while creating the snapshot"
-msgstr ""
+msgstr "Fel uppstod när ögonblicksbilden skapades"
 
 #: ../usr/share/time-slider/lib/time_slider/snapnowui.py:155
 msgid "Snapshot created successfully"
-msgstr ""
+msgstr "Ögonblicksbilden skapades"
 
 #: ../usr/share/time-slider/lib/time_slider/snapnowui.py:156
 msgid "Success"
-msgstr ""
+msgstr "Lyckades"
 
 #: ../usr/share/time-slider/lib/time_slider/snapnowui.py:157
 #, python-format
@@ -472,6 +530,9 @@ msgid ""
 "named %(valid_name)s\n"
 "has been created.\n"
 msgstr ""
+"En ögonblicksbild av zfs-filsystemet %(zfs_fs)s\n"
+"med namnet %(valid_name)s\n"
+"har skapats.\n"
 
 #: ../usr/share/time-slider/lib/time_slider/snapnowui.py:181
 msgid ""
@@ -479,6 +540,9 @@ msgid ""
 "- The path of the directory to be snapshotted.\n"
 "- The zfs filesystem corresponding to this directory."
 msgstr ""
+"Snapshot Now kräver 2 argument :\n"
+"- Sökvägen till den katalog som ska snapshotas.\n"
+"- Det zfs-filsystem som motsvarar den här katalogen."
 
 #: ../usr/share/time-slider/lib/time_slider/snapnowui.py:217
 msgid ""
@@ -487,3 +551,7 @@ msgid ""
 "\n"
 "Consult your system administrator "
 msgstr ""
+"Snapshot Now kräver administratörsbehörighet för att köras. Du har inte "
+"tilldelats de nödvändiga administrativa behörigheterna.\n"
+"\n"
+"Rådfråga din systemadministratör "
